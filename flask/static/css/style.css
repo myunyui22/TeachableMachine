@@ -1,0 +1,36 @@
+body {
+    margin: 10px;
+    font-family: sans-serif;
+    font-size: 16px;
+    color: #00AEFF;
+    width: 420px;
+}
+h2 {
+    font-size: 22px;
+    padding-bottom: 10px;
+}
+label {
+    font-size: 14px;
+    padding-top: 20px;
+    color: #666;
+}
+.Btns {
+    padding: 5px;
+    font-size: 14px;
+    width: 90px;
+    color: #00AEFF;
+}
+.container {
+    background-color: #f7f7f7;
+    padding: 10px;
+    border: 1px dotted #CCC;
+    width: 280px;
+    margin: 20px 0 40px 0;
+    padding-top: 10px;
+}
+.btnContainer {
+    margin-top: 20px;
+}
+#angle {
+    width: 50px;
+}
